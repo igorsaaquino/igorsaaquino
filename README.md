@@ -1,4 +1,4 @@
-## Bem vindo ao meu GitHub !!! 
+## Bem vindo(a) ao meu GitHub !!! 
 <p>Sou Igor Alencar, carioca e orgulhosamente estudante de desenvolvimento FullStack na Kenzie Academy Brasil!<p>
 <div align="center">
   <a href="https://github.com/igorsaaquino">
