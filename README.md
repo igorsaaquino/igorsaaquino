@@ -12,7 +12,7 @@
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Igor-CW" height="90" width="160" src="https://www.codewars.com/users/IgorSAAquino/badges/large">
+   <img align="center" alt="Igor-CW" height="150" width="240" src="https://www.codewars.com/users/IgorSAAquino/badges/large">
 </div>
   
   ##
