@@ -1,5 +1,5 @@
 ## Bem vindo(a) ao meu GitHub !!! 
-<p>Sou Igor Alencar, carioca e orgulhosamente estudante de desenvolvimento FullStack na Kenzie Academy Brasil!<p>
+<p>Sou Igor Alencar, carioca e orgulhosamente estudante de desenvolvimento FullStack.<p>
 <div align="center">
   <a href="https://github.com/igorsaaquino">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=igorsaaquino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
